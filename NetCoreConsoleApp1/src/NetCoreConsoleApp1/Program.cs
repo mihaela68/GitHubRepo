@@ -9,7 +9,7 @@ namespace NetCoreConsoleApp1
     {
         public static void Main(string[] args)
         {
-            Console.Write("Hello!");
+            Console.Write("Hello World!");
             Console.ReadKey();
         }
     }
